@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B7FDD&width=500&lines=Security+%2B+human+rights+focused+dev;Building+tech+that+protects+people;Python+%7C+Java+%7C+React+%7C+SQL;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-### Hi, I'm Memoria 👋
+### Hi, I'm Tammy 👋
 
 I'm a CS student focused on **cybersecurity** and **technology for human rights**. I believe code can be a tool for justice — and I'm building toward that.
 
